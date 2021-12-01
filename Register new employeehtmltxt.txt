@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Infinity Solutions LMS</title>
+	<link rel="stylesheet" type="text/css" href="styles/theme.css">
+</head>
+<body>
+
+<!--head section starts-->
+
+	<hr class="hr">
+	<img src="images/header.png" width="100%">
+	<div>	
+	<p class="nav"><b> <a href="aboutus.html" class="navbtn" >About Us </a>    <a href="contactus.html" class="navbtn" >Contact Us</a>  	
+	</div>
+	<hr class="hr">
+<center>
+
+<div>
+<form>
+<h1><center>Register a New Employee</center></h1>
+<center>
+<form method="post" action="">
+<p>
+Employee ID        :<input type="text" placeholder="Enter Employee ID" name="Employee ID" required><br><br></p>
+<p>
+First Name        :<input type="text" placeholder="Enter First Name" name="First Name" required><br><br></p>
+<p>
+Last Name         :<input type="text" placeholder="Enter Last Name" name="Last Name" required><br><br></p>
+<p>
+Designation       :<input type="text" placeholder="Enter Employee Designation" required><br><br></p>
+<p>
+Upload a photo    :<input type="text"placeholder="Choose photo"required><br><br></p>
+<p>
+Temporary Password:<input type="text"id= name="" title="password" /><br><br></p>
+<input type="submit" value="Register" title="Register" /><br><br>
+</form>
+</center>	
+<hr class="hr"><br>
+	<div class="footerdiv">
+	<center>
+		<h3 class="footer">Infinity Solutions (Pvt) Ltd</h3><br>
+		<h5 class="footer">&copy; Copyright 2019 Infinity Solutions (Pvt) Ltd. All rights reserved.</h5>
+	</center>
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	<br><br><br><br>
+	<br><br><br><br>
+	<br><br><br><br>
+	<br><br><br><br>
+	<br><br><br><br>
+
+
+
+<!--footer section starts-->
+
+	
+	</div>
+</body>
+</html>
+

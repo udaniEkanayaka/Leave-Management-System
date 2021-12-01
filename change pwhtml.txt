@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>Infinity Solutions LMS</title>
+	
+	<link rel="stylesheet" type="text/css" href="styles/theme.css">
+
+</head>
+
+<body>
+
+<!--head section starts-->
+
+	<hr class="hr">
+	<img src="images/header.png" width="100%">
+	<div>	
+	<p class="nav"><b> <a href="aboutus.html" class="navbtn" >About Us </a>    <a href="contactus.html" class="navbtn" >Contact Us</a>  	
+	</div>
+	<hr class="hr">
+	
+		
+<div class = "container">
+<form class = "box">
+
+<h1><center>Change Password</center></h1>
+
+
+
+<form method="post" action="">
+<p>
+Enter current password: <input type="password" id="EntercurrentPassword" name="EntercurrentPassword" title="Entercurrentpassword" /><br><br></p>
+<p>
+Enter new password: <input type="Enternewpassword" id= name="" title="Enter new password" /><br><br></p>
+<p>
+Re-Enter new password: <input type="text" id="token" name="token" title="Password Token" /><br><br></p>
+
+<p class="form-actions"><br>
+<input type="submit" value="Change Password" title="Change password" /><br><br>	
+</form>
+</div>	
+</div>
+<hr class="hr"><br>
+	<div class="footerdiv">
+	<center>
+		<h3 class="footer">Infinity Solutions (Pvt) Ltd</h3><br>
+		<h5 class="footer">&copy; Copyright 2019 Infinity Solutions (Pvt) Ltd. All rights reserved.</h5>
+	</center>	
+	<br><br><br><br>
+	<br><br><br><br>
+	<br><br><br><br>
+	<br><br><br><br>
+	<br><br><br><br>
+	
+
+<!--footer section starts-->
+
+	
+	</div>
+</body>
+</html>
+
+
+
+
